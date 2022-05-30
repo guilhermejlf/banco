@@ -7,3 +7,5 @@ Para rodar em sua máquina, por favor digite:
 ```
 npm intall react
 ```
+
+=)
